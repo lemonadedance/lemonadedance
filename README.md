@@ -1,0 +1,4 @@
+- Hi, I’m @lemonadedance
+- I’m interested in ... learning more
+- I’m currently learning ... java
+- I’m looking to collaborate on ... new projects
